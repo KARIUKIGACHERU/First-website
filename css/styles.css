@@ -17,3 +17,8 @@ body {
   padding: 20px;
   background-color: #fafafa;
 }
+p {
+  color: #444;
+  line-height: 1.6;
+  font-family: Arial, sans-serif;
+}
